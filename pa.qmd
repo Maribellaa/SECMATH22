@@ -1,6 +1,10 @@
 ---
 title: "Untitled"
-author: "Maribel Espiritu and Dona Gatchalian"
+author: 
+ - Maribel Espiritu
+ - Dona Gatchalian
+date: 02/15/2024
+date-modified: today
 format: html
 editor: visual
 ---
